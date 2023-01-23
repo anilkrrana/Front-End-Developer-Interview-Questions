@@ -14,3 +14,9 @@
 13. How to design a search box.
 14. How to design carousal.
 15. What is the difference between absolute vs relative position.
+18: if(i===1 && i === 2 && i === 3) console.log(“yes”) else console.log(“yes”) What will you implement " i " so that we always get “yes”
+19: What is Promise, Why we should have to use it instead of call back
+20: What is Prototype inheritance
+21: What is the prototype chain
+22: What is the difference between proto vs prototype
+23: Write a program for shallow compare vs deep compare
