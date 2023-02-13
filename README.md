@@ -49,4 +49,4 @@
 
 27: If there is 4 property in a location in one property almost 90% rooms or bed sold out but in other 3 only 10% sold out, how can you increase the sell.
 
-28: How many projects do you have on your skills.
+28: How many projects do you have on your skills?
